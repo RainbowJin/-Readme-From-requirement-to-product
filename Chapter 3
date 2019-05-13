@@ -1,0 +1,44 @@
+First, make good design
+3.1 Choose product framwork
+3.1.1 Reasonable selection to enable expandability
+3.1.2 Five framwork and select model by location
+3.1.2.1 Tab type
+        Top Tab, Botton Tab and Botton extension Tab
+        Advantages:
+        1> Main function pressed and easy to find
+        2> Decrease users' clicking times
+        3> Fast to transfer back to home page
+        Weaknesses:
+        1> Four to Five main functions are suitable
+        2> Lack of immersion
+        Summary:
+        1> Some functions must have to fix in the bottom,others will be on the top
+        2> In order to get immersion experience, Tab can be put on the top for News and Reading APP.
+3.1.2.2 Drawer type 
+        Like QQ for example
+        Advantages:
+        1> For enough space to content, users can focus on the current page and requirements to raise the immersion experience
+        2> Good expandability, sidebar can offer more function space from entrance
+        Weaknesses:
+        1> The learning cost is much higher and it's hard to find at first usage
+        2> It's hard to be found for users that other main functions' entrance is hidden
+        3> Need second click for entrance transfer, the path is much deeper
+        summary:
+        1> In order to have a clean visual experience
+        2> Drawer type will make a big waste in potential attendance and the degree of interaction in the sidebar
+        3> Gesture opearation is more important for large-size screen phones
+3.1.2.3 List type
+        List type is more use for messages
+        Advantages:
+        1> Clear content hierarchy
+        2> Show more contents at one time
+        Weaknesses:
+        1> Can't make a key point for more content
+        2> Low flexibility
+        Summary:
+        1> Working as Auxiliary navigation to show more info, but if as main navigation, it has to satisfy less level 
+        2> Keep message numbers in one screen
+        3> Put the most important info on the top four lines for users to remember
+        4> Pay attention to classify in the list 
+3.1.2.4 Scratchable latex type
+        Scratchable latex 
