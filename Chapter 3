@@ -42,3 +42,125 @@ First, make good design
         4> Pay attention to classify in the list 
 3.1.2.4 Scratchable latex type
         Scratchable latex 
+3.1.2.5 Compound type
+        Advantages:
+        1> Clear
+        2> Show more entrances for one time
+        Weaknesses:
+        1> The key functions are not prominent enough
+        2> The switch between the various entries is not flexible enough
+        Summary:
+        for two types: one is the spiral, and another is flush
+        1> sipral:
+        like weibo for example for extension function
+        2> flush:
+        like weather app for example for clear visuality
+        
+        
+3.2 Interaction experience
+3.2.1 Definition
+     1> Behavior design--------------input and output
+     2> Form design----------------UI and style
+     3> Content design----------------info framework/ copywrite/ flash and sound effect
+     
+3.2.2 Five elements
+     1> People
+     2> Purpose
+     3> Contexts
+     4> Means
+     5> Actions
+3.2.2.1 Scene click to Satisfy the user's curiosity
+3.2.2.2 Scenario purchase 
+3.2.2.3 Scenario reading for making the most of fragmented time
+
+3.2.3 Start design
+Good tools are essential things 
+3.2.3.1 Balsamiq Mockups/ Axure/ Markman/ Sketch/ POP/ modao/ Photoshop
+3.2.3.2 ADDIE model
+       1> analysis
+       2> design
+       3> develop
+       4> instruct
+       5> evaluate
+3.2.3.3 working flow to design a product
+       1> business analysis
+       2> Page flow
+       3> page layout
+       4> prototype design
+       5> Design specification
+   
+3.2.4 documentation requirements deion
+      1> document covers /version/ Interactive document
+      2> Module Manifest /business process/ prototype design/ error handling
+      
+      
+3.3 Manage complex structures
+3.3.1 Personal centre
+3.3.1.1 Drawer type 2 navigation
+3.3.1.2 Separate Tab and multilevel lists
+
+3.3.2 Tab
+      1> Context substitution
+      2> Functional navigation
+      3> Content class tag
+3.2.3 Find more
+      1> Use keywords that describe the destination of the link
+      2> Add descriptive keywords
+      3> Convert to a unique link
+3.2.4 Filter
+Tesler's law
+ <1> Hierarchical level
+      1> drop-down list, Floating layer
+      like cloud, shopping and taxi app
+      2> new floating layer to show all the screen
+      like weather and electrical shopping app
+ <2> comprehensive 
+      1> bottom bar in drawer type
+      2> A new interface and Composite nested
+      
+3.4 The principle of law
+3.4.1 Usability principles
+3.4.1.1 Visibility of system status: 
+The system should always keep the user informed of what is going on in a reasonable amount of time with appropriate feedback
+3.4.1.2 Match between system and the real world
+3.4.1.3 User control and freedom
+3.4.1.4 Consistency and standards
+3.4.1.5 Error prevention
+3.4.1.6 Aesthetic and minimalist design
+
+3.4.2 Interaction design law
+UE, UX, UI
+3.4.2.1 Fitt's law
+The time that takes to achieve a goal
+3.4.2.2 Hick's law
+Make complex things easy
+3.4.2.3 Tesler's law
+conservation of complexity
+3.4.2.4 7+_2 law
+
+3.4.3 Psychological effect
+3.4.3.1 Cage logic
+Apple Co. for example: A free trial and Fee-based value-added services
+Xiaomi phones for example
+3.4.3.2 BJ Fogg's behavior model
+Effectively look for behavioral reasons for three elements: motivation, ability and trigger
+B=MAT
+four steps:
+    1> trigger(internal and external)
+    2> behave(touch and use)
+    3> Variable motivation(social and games)
+    4> input to form a habit
+3.4.3.3 Flow theory
+flow theory is immersion experience
+the core theory is that people achieve this when their skills match their challenges
+
+3.4.4 Fairytale mental model
+Assumptions and stories that people have about themselves and other people's organizations and even every level of the world around them
+3.4.4.1 pea princess
+mental won't change 
+3.4.4.2 Candy house
+people only choose what they want to remember
+3.4.4.3 Goldilocks and three bears
+Forced simplificated information
+
+
