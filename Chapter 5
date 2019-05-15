@@ -1,0 +1,47 @@
+Data Driven
+5.1 data analysis is not simple for data reduction (1)
+A good product manager should have  operation mind and to analysize it's data to balance the operation effect.
+Data analysis is used in two scenes that
+1> after publishing new version
+2> research data and design for the next version
+5.1.1 The definition of data analysis 
+Data analysis is a progress for using proper statistic method to analyze large data, 
+suammarizing useful information to make a conlusion in detailed research.
+
+Three levels for data:
+1> macro
+   DAUS/ new users / order quantity/ seven-days retention
+2> micro
+   age/ gender/ what‘s doing
+3> middle
+   analyzing/ funnel/ retained/ segmentation/ protrait
+   
+Method : AARRR
+acquisition in DNU DNU/DAU
+activation in DAU MAU DAU/MAU
+retention in  NEXT/3/7/15/30 DAYS RETAINED
+revenue in ARPU DARPU ARPPU
+refer in sharing and recommendation
+
+5.1.2 Tools in DA
+ 1> APP
+   GrowingIO/ Google Analytics
+ 2> Web
+   CNZZ/ Baidu/ Google Analytics
+   
+5.1.3 Collecting data method
+ SDK
+ Buried point
+ development
+ 
+5.2 data analysis is not simple for data reduction (2)
+5.2.1 thinking framework
+establish the system of index
+5.2.2 workflow 
+clear analysis goal/ colleting data/ processing data/ analyzing data/ data presentation/ report
+5.2.3 Data visualization
+1> data collection
+2> visual mapping 
+3> denoising to clear data
+4> User authentication
+tools: tableau public/ fusioncharts/ dygraphs/ datawrapper/ leaflet
